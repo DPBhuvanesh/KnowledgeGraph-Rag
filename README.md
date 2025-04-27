@@ -1,4 +1,4 @@
-# **Read Me**
+
 
 
 
@@ -8,7 +8,7 @@
 ## KnowledgeGraph RAG 
 
 This Project is example of Knowledge Graph Retrieval using LangChain and Ollama.Here Neo4j used for storing Knowledge graph.
-Knowlege graph RAG uses hybrid retrival as vector search used in this project.
+Knowlege graph RAG uses hybrid retrival as vector search process used in this project.
 
 
 * Create a Knowledge Graph using neo4j and noe4j desktop allows to run a local database.
