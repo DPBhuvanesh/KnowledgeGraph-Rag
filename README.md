@@ -10,6 +10,7 @@ Knowlege graph uses hybrid retrival as vector search used in this project.
 * Connect your Neo4j by using username, password, url just change it in .env to access it easily.
 
 ## Install Requirements
-** 'pip install requirements.txt' **
-
+'''
+** pip install requirements.txt **
+'''
 Clone this project and create your own Knolwedge graph retrieval.
